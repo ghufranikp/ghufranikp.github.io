@@ -9,3 +9,9 @@
 section {
   padding-top: 5rem;
 }
+.display-6 {
+  font-size: 2rem;
+}
+.card-text {
+  font-size: 1rem;
+}
